@@ -1,0 +1,13 @@
+<root>
+  <PES name="the big test">
+    <Global>
+      <nucleus Z=" 78" N=" 98"/>
+      <force name="SKM*"/>
+      <temperature T=" 0.000"/>
+      <pairingForceN V0=" -265.250" V1="  828.906" rho="    0.320" alpha="    1.000"/>
+      <pairingForceP V0=" -340.062" V1=" 1062.695" rho="    0.320" alpha="    1.000"/>
+      <pairingCutoff Ecut="  60.000"/>
+      <comment>Blabla</comment>
+    </Global>
+  </PES>
+</root>
