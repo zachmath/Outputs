@@ -18,7 +18,7 @@ SLOW_PAIR    SLOWPA
 SLOWLIPKIN   SLOWLI
               0.85
 BROYDEN      IBROYD  N_ITER  ALPHAM  BROTRI
-                1      10     0.6   1000.0
+                0      10     0.6   1000.0
 MAXANTIOSC   NULAST
                5
 PING-PONG    EPSPNG  NUPING
